@@ -22,5 +22,5 @@ print(calc1.restar())
 print(calc1.multiplicar())
 print(calc1.dividir())
 
-  git config --global user.email "hugobonini@outlook.com"
-  git config --global user.name "agatoclesdesiracusa"
+  #git config --global user.email "hugobonini@outlook.com"
+  #git config --global user.name "agatoclesdesiracusa"
