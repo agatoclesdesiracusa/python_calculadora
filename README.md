@@ -1,2 +1,2 @@
 # python_calculadora
-Progra en pythno que emula una calculadora
+Progra en python que emula una calculadora
